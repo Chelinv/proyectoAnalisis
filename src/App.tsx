@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 import HomePage from "./pages/HomePage"
 import LoginPage from "./pages/LoginPage"
-import AdminPage from "./pages/AdminPage"
+import AdminPage from './pages/AdminPage'
 import ClientePage from "./pages/ClientePage"
 import RegistroPage from "./pages/RegistroPage"
 import CatalogoPage from "./pages/CatalogoPage"
