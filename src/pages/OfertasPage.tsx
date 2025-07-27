@@ -1,8 +1,8 @@
 "use client"
 
 import { useState } from "react"
-import { Button } from "../components/ui/button"
-import { Input } from "../components/ui/input"
+import { Button } from "@/components/ui/button"
+import { Input } from "@/components/ui/input"
 import { Package, Star, BookOpen, Palette, Search, ArrowLeft, X, Plus, Minus, Tag, Clock } from "lucide-react"
 import { Link } from "react-router-dom"
 import "./OfertasPage.css"

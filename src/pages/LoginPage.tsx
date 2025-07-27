@@ -2,9 +2,9 @@
 
 import type React from "react"
 import { useState } from "react"
-import { Button } from "../components/ui/button"
-import { Input } from "../components/ui/input"
-import { Label } from "../components/ui/label"
+import { Button } from "@/components/ui/button"
+import { Input } from "@/components/ui/input"
+import { Label } from "@/components/ui/label"
 import { Package, ArrowLeft } from "lucide-react"
 import { Link, useNavigate } from "react-router-dom"
 import "./LoginPage.css"

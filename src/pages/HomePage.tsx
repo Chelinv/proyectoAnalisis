@@ -1,4 +1,4 @@
-import { Button } from "../components/ui/button"
+import { Button } from "@/components/ui/button"
 import { BookOpen, Phone, HelpCircle, Star, Package, Scissors, Palette } from "lucide-react"
 import { Link } from "react-router-dom"
 import "./HomePage.css"
